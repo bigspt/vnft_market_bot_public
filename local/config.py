@@ -27,8 +27,8 @@ VESEA_PROFILE_ADDRESS = "0x242035f42C59119b9A22D4270506c07Fb792e55C".lower()
 VESEA_GATEWAY = "https://vesea.mypinata.cloud/ipfs/"
 
 
-WOV_ADDRESS_URL = "https://marketplace.worldofv.art/profile/"
-WOV_MARKETPLACE_URL = "https://marketplace.worldofv.art"
+WOV_ADDRESS_URL = "https://worldofv.art/profile/"
+WOV_MARKETPLACE_URL = "https://worldofv.art"
 
 WOV_MARKET_ADDRESS = "0xc3F851F9f78c92573620582BF9002f0C4a114B67".lower()
 WOV_OFFERS_ADDRESS = "0xE56861c0bB8012EC955DA4E4122895ED2A46d229".lower()
